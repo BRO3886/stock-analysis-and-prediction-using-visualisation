@@ -6,7 +6,7 @@
 <h1>CSE3020<br>DATA VISUALISATION - PROJECT REVIEW</h1>
 </div>
 
-<div align="center"><h2>STOCK ANALYSIS AND PREDICTION USING VISUALISATION</h2></div>
+<div align="center"><h2>STOCK ANALYSIS AND PREDICTION USING DATA VISUALISATION</h2></div>
 
 >Vasudha Tapriya, 18BCE0870 and Siddhartha Varma, 18BCE0865
 
